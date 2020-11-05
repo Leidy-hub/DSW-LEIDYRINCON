@@ -4,7 +4,7 @@
     
     background-color: #50B748; 
     color: #ffffff;
-    padding: 10px;
+    padding: 0%;
     font-size: 16px;
     }
 .bton{
@@ -73,5 +73,11 @@ display: block;
 background-color: #3e8e41;
 }
 
+.head{
+   background-color: #8d3939;
+  text-align: left;
+  padding: 20px;
+  
+}
 
-   
+
